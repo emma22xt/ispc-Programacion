@@ -2,6 +2,6 @@
 Trabajo integrador de ispc
 Integrantes:
 Mariabelen 1
-Emanuel gomea 
+Emanuel 
 Micaela vilchez
 bruno
