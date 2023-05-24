@@ -1,0 +1,2 @@
+create database Proyecto_integrador_1
+use  Proyecto_integrador_1
