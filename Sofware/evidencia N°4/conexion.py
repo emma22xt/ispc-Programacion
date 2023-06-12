@@ -4,8 +4,8 @@ class Conexion:
     def __init__(self, host, user, password, database):
         self.host = "localhost"
         self.user = "root"
-        self.password = "Noah2016"
-        self.database = "proyecto_integrador_1"
+        self.password = "Prueba!123"
+        self.database = "proyectointegradorv01"
         self.connection = None
 
     def connect(self):
