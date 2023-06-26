@@ -1,0 +1,1 @@
+SELECT * FROM proyecto_integrador_1.dispositivos;
